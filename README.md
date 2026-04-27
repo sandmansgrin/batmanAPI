@@ -79,6 +79,8 @@ The app sends a request to a fictional API and displays results in the terminal.
 - Build README  
 - Add Python script
 
+Roadmap 1.0 complete
+
 ## Future Ideas
 
 - Gotham weather  
